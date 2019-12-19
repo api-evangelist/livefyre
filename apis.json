@@ -1,0 +1,91 @@
+{
+    "name": "Livefyre",
+    "description": "Adobe is changing the world through digital experiences. We help our customers create, deliver and optimize content and applications.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1085-livefyre.jpg",
+    "tags": [
+        "api provider",
+        "comments",
+        "content",
+        "have api",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/livefyre\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Livefyre",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1085-livefyre.jpg",
+            "humanURL": "http:\/\/www.livefyre.com\/docs\/getting-started\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/livefyre-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/livefyre-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/fyre.co"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.livefyre.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.livefyre.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/livefyre"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/adobe-systems"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/answers.livefyre.com\/developers"
+        },
+        {
+            "type": "Email",
+            "url": "einquiri@adobe.com"
+        },
+        {
+            "type": "Email",
+            "url": "adobepr@adobe.com"
+        },
+        {
+            "type": "Email",
+            "url": "DPO@adobe.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Livefyre"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/livefyre"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Adobe"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.livefyre.com\/docs\/getting-started\/"
+        }
+    ]
+}
